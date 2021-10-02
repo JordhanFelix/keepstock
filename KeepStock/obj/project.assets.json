@@ -98,19 +98,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jordhan\\.nuget\\packages\\": {}
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\KeepStock\\KeepStock\\KeepStock.csproj",
+      "projectUniqueName": "E:\\repos\\KeepStock\\KeepStock.csproj",
       "projectName": "KeepStock",
-      "projectPath": "D:\\Projetos\\KeepStock\\KeepStock\\KeepStock.csproj",
-      "packagesPath": "C:\\Users\\Jordhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\KeepStock\\KeepStock\\obj\\",
+      "projectPath": "E:\\repos\\KeepStock\\KeepStock.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "E:\\repos\\KeepStock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jordhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -159,7 +159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

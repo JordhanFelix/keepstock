@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ocR1NZdRZiJQ9QAaFU2dIVZ6+B56iDSarZzdyayVx6k91TQyGDtk4iIgO5coiiyflH3JMzqR4Tlu683LFW1gBg==",
+  "dgSpecHash": "lwr6vMhwMI+qn/rDzDIqwG7m2tElyw3cCuLHWMu8Fz199G7Y6taq6GVJOIl280VBimbxDPufaNw2OrRN3DHQvA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\KeepStock\\KeepStock\\KeepStock.csproj",
+  "projectFilePath": "E:\\repos\\KeepStock\\KeepStock.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jordhan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],
   "logs": []
 }
